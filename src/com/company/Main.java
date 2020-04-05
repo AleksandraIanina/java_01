@@ -10,8 +10,6 @@ public class Main {
             System.out.println(result[i]);
         }
           //Task_05
-
-
         System.out.println("===== TASK 5 =====");
         int array1 [] = {2,5,3,5,1};
         int array2 [] = {4,8,5,3};
